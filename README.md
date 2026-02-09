@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=050510,3b82f6,050510&height=320&section=header&text=Hashir%20Shahid&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20@%20Bizologyx%20%7C%20AI-Driven%20Architect&descAlignY=55&descAlign=60" width="100%"/>
 </div>
 
@@ -107,3 +107,4 @@ At Bizologyx, we don't just deliver code; we deliver outcomes.
   <br />
   <p><i>Let's build something impossible.</i></p>
 </div>
+](https://github.com/bizologyx)
