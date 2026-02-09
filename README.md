@@ -29,7 +29,7 @@ I am **Hashir Shahid**, a **Visionary Tech Entrepreneur** and **Full Stack AI En
 
 As the **Founder & CEO of Bizologyx**, I lead a global team of engineers and strategists. My mission is to bridge the gap between complex Artificial Intelligence and practical business utility. I don't just build software; I build **scalable digital ecosystems** that drive revenue and efficiency.
 
-I specialize in **AI-Driven Development**, meaning I leverage Large Language Models (LLMs), Automation Agents, and Neural Networks to write cleaner, faster, and more efficient code.
+I specialize in **AI-Driven Development**, leveraging Large Language Models (LLMs), Automation Agents, and Neural Networks to write cleaner, faster, and more efficient code.
 
 * 🔭 **Current Focus:** Scaling [**Bizologyx**](https://bizologyx.com) into a global innovation hub.
 * 🧠 **Core Power:** Integrating Generative AI into SaaS platforms.
@@ -76,14 +76,14 @@ My development workflow is a hybrid of human logic and machine speed.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=3b82f6&icon_color=a1a1aa&text_color=ffffff" alt="Hashir's Stats" />
+  <a href="https://github.com/bizologyx">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bizologyx&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=3b82f6&icon_color=a1a1aa&text_color=ffffff" alt="Hashir's Stats" />
   </a>
   
   <br/><br/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=3b82f6&text_color=ffffff" alt="Top Languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=050510&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bizologyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=3b82f6&text_color=ffffff" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bizologyx&theme=tokyonight&hide_border=true&background=050510&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="Streak" />
 </div>
 
 ---
@@ -102,7 +102,7 @@ At Bizologyx, we don't just deliver code; we deliver outcomes.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bizologyx&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br />
   <br />
   <p><i>Let's build something impossible.</i></p>
