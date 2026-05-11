@@ -26,7 +26,7 @@ We are always open to collaborating on innovative projects and helping businesse
 * **Official Website:** [bizologyx.com](https://bizologyx.com)
 * **General Inquiries:** [info@bizologyx.com](mailto:info@bizologyx.com)
 * **Founder/Direct:** [hashir@bizologyx.com](mailto:hashir@bizologyx.com)
-* **WhatsApp Support:** [+44 7845 143131](https://wa.me/447845143131)
+* **WhatsApp Support:** [+92 329 7183510](https://wa.me/923297183510)
 
 ---
 
